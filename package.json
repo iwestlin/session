@@ -1,8 +1,8 @@
 {
-  "name": "koa-session",
+  "name": "@viegg/koa-session",
   "description": "Koa cookie session middleware with external store support",
-  "repository": "koajs/session",
-  "version": "5.10.1",
+  "repository": "iwestlin/session",
+  "version": "5.10.2",
   "keywords": [
     "koa",
     "middleware",
